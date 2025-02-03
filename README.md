@@ -25,7 +25,7 @@ Each folder contains solutions categorized by difficulty levels.
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone <repository_url>
+  git@github.com:Tumelo4/leetcode-challenges.git
    ```
 2. Navigate to the desired language folder:
    ```sh
