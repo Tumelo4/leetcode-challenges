@@ -34,11 +34,11 @@ Each folder contains solutions categorized by difficulty levels.
 3. Run a specific solution:
    - **JavaScript:**
      ```sh
-     node solution.js
+     node filenname
      ```
    - **Python:**
      ```sh
-     python solution.py
+     python3 filenname
      ```
 
 Happy Coding! 🚀
